@@ -1,0 +1,5 @@
+# Paste the entire string into the test form
+
+{"input_data": [{"fields": ["Gender", "Status", "Children", "EstIncome", "CarOwner", "Age", "AvgMonthlySpend", "CustomerSupportCalls", "Paymethod", "MembershipPlan"], "values": [["M","S",2.0,25000,"Y",25,10,1,"CC",1], ["S","S",2.0,25000,"Y",25,10,1,"CC",1]]}]}
+
+
